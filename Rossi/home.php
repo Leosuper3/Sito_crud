@@ -357,4 +357,3 @@ $utenti = $pdo->query("
 
 </body>
 </html>
-```
